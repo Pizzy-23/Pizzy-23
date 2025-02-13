@@ -65,8 +65,6 @@ const profile = {
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
-  <img width="5" />
   <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="30" alt="babel logo"  />
 </div>
 
