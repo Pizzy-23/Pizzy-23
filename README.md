@@ -8,7 +8,7 @@
 // Perfil do Desenvolvedor
 const profile = {
   name: "Luiz Gustavo Cavina", // Nome completo
-  role: "Desenvolvedor de Software", // Cargo atual
+  role: "Desenvolvedor de Back-end Gaio", // Cargo atual
   location: "São Paulo, Brasil", // Localização
   contact: {
     email: "luizcavina@gmail.com", // E-mail profissional
