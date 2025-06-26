@@ -8,14 +8,14 @@
 // Perfil do Desenvolvedor
 const profile = {
   name: "Luiz Gustavo Cavina", // Nome completo
-  role: "Desenvolvedor de Back-end Gaio", // Cargo atual
+  role: "Desenvolvedor de Back-end", // Cargo atual
   location: "São Paulo, Brasil", // Localização
   contact: {
     email: "luizcavina@gmail.com", // E-mail profissional
     linkedin: "https://www.linkedin.com/in/luiz-gustavo-cavina-faria/", // Perfil no LinkedIn
   },
   summary:
-    "Desenvolvedor back-end com experiência em Node.js, Nest.js e Go. Participei de projetos de APIs, dashboards e integrações para otimizar processos em empresas e startups. Apaixonado por resolver problemas com tecnologia e sempre em busca de novos desafios.", // Resumo profissional
+    "Desenvolvedor back-end com experiência em Node.js, Nest.js e C#. Participei de projetos de APIs, dashboards e integrações para otimizar processos em empresas e startups. Apaixonado por resolver problemas com tecnologia e sempre em busca de novos desafios.", // Resumo profissional
   currentProjects: [
     "Plataforma para coleta de lixo urbano com otimização de rotas (Grunber)", // Projeto atual 1
     "Sistema de validação de prontuários elétricos (ConformeTec)", // Projeto atual 2
