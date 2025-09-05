@@ -110,6 +110,6 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pizzy-23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Luiz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pizzy-23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22%20alt=%22Luiz%27s%20GitHub%20stats%22" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pizzy-23&layout=compact&theme=dracula" alt="Top Langs" />
 </div>
